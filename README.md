@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am done working on a submission for SoMe2 via website.
-you can find it at https://playfulmathematician.github.io/PlayfulMathematicianArticles/coinspt1
+I am working on PMMP
 <!--
 **PlayfulMathematician/PlayfulMathematician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
