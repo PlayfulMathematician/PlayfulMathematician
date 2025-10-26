@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am working on PMMP. 
-My [Website](http://playfulmathematician.com)
+I am Playful Mathematician! I am working on my website, and PlayfulOS.
 <!--
 **PlayfulMathematician/PlayfulMathematician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
